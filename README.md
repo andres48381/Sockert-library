@@ -1,4 +1,4 @@
-# Sockert-library
+# Socket-library
 Socket library useful for TCP &amp; UDP communications in C++ projects.
 
 # How to build and install it
